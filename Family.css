@@ -160,14 +160,17 @@ h1{
 img {
  max-width: 100%;
   max-height: 100%;
+  width: auto;
  height: auto;
+  object-fit: contain;
 }
 .pic-div{
-  display: block;
+  display: inline-block;
   min-width: 500px;
   max-width: 500px;
   min-height: 500px;
   max-height: 500px;
+  overflow: hidden;
 }
 .pic-div:hover{
   box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.158);
