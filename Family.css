@@ -157,8 +157,9 @@ h1{
   font-family: Arial, Helvetica, sans-serif;
 
 }
-img{
- max-width: 500px;
+img {
+ max-width: 100%;
+  max-height: 100%;
  height: auto;
 }
 .pic-div{
