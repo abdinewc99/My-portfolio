@@ -157,6 +157,10 @@ h1{
   font-family: Arial, Helvetica, sans-serif;
 
 }
+.drive-total{
+  display: blocck;
+  text-align: center;
+}
 img {
  max-width: 100%;
   max-height: 100%;
