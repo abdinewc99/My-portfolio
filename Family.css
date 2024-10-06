@@ -159,14 +159,14 @@ h1{
 }
 img{
  max-width: 500px;
-  height: auto;
+ height: auto;
 }
 .pic-div{
-  display: inline-block;
+  display: block;
   min-width: 500px;
   max-width: 500px;
   min-height: 500px;
-  max-height: 500px
+  max-height: 500px;
 }
 .pic-div:hover{
   box-shadow: 0px 0px 10px 5px rgba(255, 255, 255, 0.158);
